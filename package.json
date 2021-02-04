@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-theme-modern-blog",
+  "name": "vuepress-theme-bnnk-blog",
   "version": "2.12.1",
-  "description": "Modern blog theme for VuePress",
+  "description": "Modern blog theme for VuePress, forked from @z3by's Modern blog theme. For my blog."
   "keywords": [
     "vue",
     "vuepress",
@@ -9,17 +9,16 @@
     "vuepress-theme",
     "vuepress-blog",
     "vuepress-theme-blog",
-    "vuepress-theme-modern-blog"
   ],
   "repository": {
     "type": "git",
-    "url": "z3by/vuepress-theme-modern-blog"
+    "url": "z3by/vuepress-theme-bnnk-blog"
   },
   "license": "MIT",
   "author": {
-    "name": "Ahmad Mostafa",
-    "email": "zoaby.am@gmail.com",
-    "url": "https://ahmadmostafa.com"
+    "name": "BK Shrinandhan",
+    "email": "bk.shrinandhan@gmail.com",
+    "url": "https://bnnk.github.io"
   },
   "main": "src/index.js",
   "files": [
